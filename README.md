@@ -51,10 +51,10 @@ Implemented a star schema:
 - Return Rate
 - Average Order Value
 
-- ## Dashboard Preview
+## Dashboard Preview
 
-![SalesDashboard](Screenshots/Sales%20Dashboard.png)
+![Sales Dashboard](sales_dashboard.png)
 
-![CustomerDetails](Screenshots/Customer%20Details.png)
+![Customer Details](customer_details.png)
 
-![SalesPersonDetails](Screenshots/Salesperson%20Details.png)
+![Salesperson Details](salesperson_details.png)
