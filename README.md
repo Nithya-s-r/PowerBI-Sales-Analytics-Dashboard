@@ -53,8 +53,8 @@ Implemented a star schema:
 
 - ## Dashboard Preview
 
-![Sales Dashboard](Screenshots/Sales%20Dashboard.png)
+![SalesDashboard](Screenshots/Sales%20Dashboard.png)
 
-![Customer Details](Screenshots/Customer%20Details.png)
+![CustomerDetails](Screenshots/Customer%20Details.png)
 
-![Salesperson Details](Screenshots/Salesperson%20Details.png)
+![SalesPersonDetails](Screenshots/Salesperson%20Details.png)
